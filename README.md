@@ -62,6 +62,8 @@ network 192.168.1.0
 network 192.168.2.0
 
 This tells the router to use RIP version 2 and advertise the connected networks.
+
+
 🕵️‍♂️ How to Test It
 
     Use the show ip route command to see if routes are learned dynamically:
